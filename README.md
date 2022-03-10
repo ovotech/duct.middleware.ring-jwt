@@ -1,6 +1,8 @@
-# ring-jwt
+# duct.middleware.ring-jwt
 [Duct](https://github.com/duct-framework)/[Integrant](https://github.com/weavejester/integrant) keys for wrapping
 the [ring-jwt](https://github.com/ovotech/ring-jwt) middleware. 
+
+> **DEPRECATION NOTICE**: This repo is no longer maintained. The canonical repo is the fork that can be found [here](https://github.com/kelveden/duct.middleware.ring-jwt).
 
 ## Installation
 ```
